@@ -6,6 +6,15 @@ header,
 }
 
 .view {
-    background: url('../img/1\ EIdfGychDTS-6Xwnd92aOg.jpeg') no-repeat center center fixed;
+    background: url('../img/HD-creative-pictures.jpg') no-repeat center center fixed;
     background-size: cover;
+}
+
+.brand-style {
+    font-family:'Lobster', cursive !important;
+    font-size: 25px;
+}
+
+h2 {
+    font-family:'Lobster', cursive !important;
 }
