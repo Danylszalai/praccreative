@@ -18,3 +18,7 @@ header,
 h2 {
     font-family:'Lobster', cursive !important;
 }
+
+.top-nav-collapse {
+    background: linear-gradient(45deg, rgba(255,110,196,1) 0%, rgba(120,115,245,1) 85%);
+}
